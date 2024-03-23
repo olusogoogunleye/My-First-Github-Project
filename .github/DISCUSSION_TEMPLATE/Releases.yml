@@ -2,8 +2,8 @@ title: "[Release mm-dd-yyyy]"
 body:
 - type: markdown
   attributes:
-    value: "Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord."
-- type: markdown
+    value: "Release Information"
+- type: textarea
   attributes:
-    value: "This is working now!"
-
+    value: "Post deployment link"
+    value: "Discussion link "
