@@ -6,4 +6,4 @@ body:
 - type: textarea
   attributes:
     value: "Post deployment link"
-    value: "Discussion link "
+   
