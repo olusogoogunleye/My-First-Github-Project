@@ -1,8 +1,6 @@
-title: "Bug report"
+title: "[Release mm-dd-yyyy]"
 body:
 - type: markdown
   attributes:
-    value: "Bugs are the worst!"
-- type: textarea
-  attributes:
-    label: "What's wrong?"
+    value: "Post deployment"
+
