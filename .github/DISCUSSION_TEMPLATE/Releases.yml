@@ -1,1 +1,8 @@
-
+name: "Bug report"
+body:
+- type: markdown
+  attributes:
+    value: "Bugs are the worst!"
+- type: textarea
+  attributes:
+    label: "What's wrong?"
