@@ -1,8 +1,8 @@
 title: "[Release mm-dd-yyyy]"
 body:
 - type: markdown
-attributes:
-value: "Post deployment"
+  attributes:
+  value: "Post deployment"
 - type: textarea
   attributes:
     label: "What's wrong?"
