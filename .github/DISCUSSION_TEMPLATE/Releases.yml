@@ -4,10 +4,23 @@ body:
 - type: textarea
   attributes:
     label: What type of release is this?
+    options: 
+        - Regular
+        - Bug fix
   validations:
     required: true 
 - type: textarea
+  Id: improvements
   attributes:
     label: Deployment Steps
+    description: "What are the top 3 improvements we could make to this project?"
+    value: 
+      1. Deployment Runbooks
+
+      [login.salesforce.com]
+
+      2. Prod Deployment
+
+      [login.salesforce.com]
   validations:
     required: true 
