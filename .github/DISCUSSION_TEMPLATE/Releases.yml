@@ -6,7 +6,7 @@ body:
     value: "Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord."
 - type: textarea
   attributes:
-    label: Post Deployment
+    label: What type of release is this?
 - type: textarea
   attributes:
     label: Release Discussion
