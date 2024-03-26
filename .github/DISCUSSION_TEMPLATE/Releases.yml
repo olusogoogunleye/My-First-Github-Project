@@ -1,4 +1,4 @@
-title: "[Release mm-dd-yyyy]"
+title: 'Release mm-dd-yyyy'
 labels: "[General Release]"
 body:
 - type: markdown
