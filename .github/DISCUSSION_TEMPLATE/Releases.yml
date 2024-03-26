@@ -8,7 +8,6 @@ body:
     options: 
         - Regular 
         - quickfix
-    default: 0
   validations:
     required: true 
 - type: textarea
