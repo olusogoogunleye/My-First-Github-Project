@@ -6,9 +6,8 @@ body:
   attributes:
     label: What type of release is this?
     options: 
-        - Regular
+        - Regular (default)
         - quickfix
-    default: Regular
   validations:
     required: true 
 - type: textarea
