@@ -1,9 +1,6 @@
 title: 'Release mm-dd-yyyy'
 labels: 'General Release'
 body:
-- type: markdown
-  attributes:
-    value: "Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord."
 - type: textarea
   attributes:
     label: What type of release is this?
