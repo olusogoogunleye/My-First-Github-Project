@@ -6,11 +6,11 @@ body:
     label: What type of release is this?
     options: 
         - Regular
-        - Bug fix
+        - quickfix
   validations:
     required: true 
 - type: textarea
-  Id: improvements
+  id: improvements
   attributes:
     label: Deployment Steps
     description: "What are the top 3 improvements we could make to this project?"
