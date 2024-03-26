@@ -1,5 +1,5 @@
 title: 'Release mm-dd-yyyy'
-labels: "[General Release]"
+labels: 'General Release'
 body:
 - type: markdown
   attributes:
