@@ -4,6 +4,10 @@ body:
 - type: textarea
   attributes:
     label: What type of release is this?
+  validations:
+    required: true 
 - type: textarea
   attributes:
     label: Deployment Steps
+  validations:
+    required: true 
