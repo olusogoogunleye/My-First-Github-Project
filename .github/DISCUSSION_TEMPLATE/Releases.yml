@@ -2,6 +2,7 @@ title: 'Release mm-dd-yyyy'
 labels: 'General Release'
 body:
 - type: dropdown
+  id: release-type
   attributes:
     label: What type of release is this?
     options: 
@@ -15,11 +16,11 @@ body:
     label: Deployment Steps
     description: "What are the top 3 improvements we could make to this project?"
     value: 
-      1. Deployment Runbooks
+      ## Deployment Runbooks
 
       [login.salesforce.com]
 
-      2. Prod Deployment
+      ## Prod Deployment
 
       [login.salesforce.com]
   validations:
