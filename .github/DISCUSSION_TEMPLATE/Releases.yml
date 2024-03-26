@@ -6,4 +6,4 @@ body:
     label: What type of release is this?
 - type: textarea
   attributes:
-    label: Release Discussion
+    label: Deployment Steps
