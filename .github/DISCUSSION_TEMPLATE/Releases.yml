@@ -1,7 +1,7 @@
 title: 'Release mm-dd-yyyy'
 labels: 'General Release'
 body:
-- type: textarea
+- type: dropdown
   attributes:
     label: What type of release is this?
     options: 
