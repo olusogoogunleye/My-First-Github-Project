@@ -30,7 +30,7 @@ jobs:
     # Runs a single command using the runners shell
     - name: Send greeting
       run: echo "Hello ${{ inputs.name }}"
-  greet again:
+  greet-again:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
